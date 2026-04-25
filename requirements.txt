@@ -1,4 +1,4 @@
-import pyTelegramBotAPI
-import telethon
-import requests
-import os
+pyTelegramBotAPI
+telethon
+requests
+os
