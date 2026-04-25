@@ -17,7 +17,7 @@ from telethon.sessions import StringSession
 import telethon.errors
 
 # ========= إعدادات =========
-TOKEN = "8554455289:AAFCSD-uAWjzoOUSAs5mGZNjLlJsU7yOyHo"
+TOKEN = "8554455289:AAG5k980NAyzIxOGrEgRf0pM_Vd-K0j7t_g"
 OWNER_ID = 1423822809
 SUPPORT = "https://t.me/w_6z1"
 ACTIVATION_CHANNEL_ID = -1003720698268
